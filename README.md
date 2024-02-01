@@ -1,3 +1,4 @@
+<img alt="coding" src="https://gqinfotech.com/Siteundermaintenance.gif">
 <h1 align="center">Hi 👋, I'm Amir Khan</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
@@ -6,6 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rocky525" alt="rocky525" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/amir_khan_525" target="blank"><img src="https://img.shields.io/twitter/follow/amir_khan_525?logo=twitter&style=for-the-badge" alt="amir_khan_525" /></a> </p>
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🎯 I'm currently working as a Frontend Developer.
 - 👨‍💻 All of my projects are available at [https://amirkhan.journoportfolio.com](https://amirkhan.journoportfolio.com)
@@ -13,8 +15,6 @@
 - 🤔 Exploring new technologies.<br>
 - 🌱 Learning more about Programming & Web Development.<br>
 - 🥋 Gamer By Nature.<br>
-
-
 - 📫 How to reach me **amirkhann697@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
